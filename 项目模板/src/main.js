@@ -5,8 +5,14 @@ import store from "./store";
 import "@/assets/css/common.css";
 import "@/assets/css/reset.css";
 import "@/assets/js/app.js";
+// 引入icon图标
+import "@/assets/image/images/iconfont/iconfont.css"
 
 Vue.config.productionTip = false;
+
+// 引入axios
+import axios from "axios";
+Vue.prototype.$axios = axios;
 
 import myButton from "@/components/Tools/Button.vue";
 Vue.component("myButton", Vue.extend(myButton));
