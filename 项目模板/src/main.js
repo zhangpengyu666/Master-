@@ -5,6 +5,7 @@ import store from "./store";
 import "@/assets/css/common.css";
 import "@/assets/css/reset.css";
 import "@/assets/js/app.js";
+import "@/assets/image/images/iconfont/iconfont.css";
 
 Vue.config.productionTip = false;
 
@@ -41,6 +42,8 @@ Vue.component("myMask", myMask);
 
 import myAdd from "@/components/Tools/Add/Add.vue";
 Vue.component("myAdd", myAdd);
+
+
 
 new Vue({
   router,
