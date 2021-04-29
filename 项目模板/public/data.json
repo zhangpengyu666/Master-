@@ -1,0 +1,19 @@
+{
+    "data":[{
+        "id":1,
+        "image":"../../src/assets/image/images/切图/banner.jpg"
+    },
+    {
+        "id":2,
+        "image":"../../src/assets/image/images/切图/banner1.jpg"
+    },
+    {
+        "id":3,
+        "image":"../../src/assets/image/images/切图/banne2.jpg"
+    },
+    {
+        "id":4,
+        "image":"../assets/image/images/切图/banner3.jpg"
+    }
+]
+}
