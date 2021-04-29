@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  box-sizing: border-box;
 }
 html {
   font-size: 50px;
@@ -17,7 +18,7 @@ html {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  // text-align: center;
   color: #2c3e50;
 }
 
@@ -25,7 +26,6 @@ html {
   padding: 30px;
 
   a {
-    font-weight: bold;
     color: #2c3e50;
 
     &.router-link-exact-active {
