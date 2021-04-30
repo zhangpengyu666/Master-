@@ -4,6 +4,7 @@ import VueRouter from "vue-router";
 Vue.use(VueRouter);
 const routes = [
   {
+<<<<<<< HEAD
 
     path: "/yi",
     name: "yi",
@@ -115,6 +116,21 @@ const routes = [
     component: () => import("@/views/ershier.vue"),
   },
 
+=======
+   path:"/",
+   redirect:"/HomePage",
+  },
+  {
+    path: "/demo",
+    name: "demo",
+    component: () => import("@/views/Demo.vue"),
+  },
+  {
+    path:"/HomePage",
+    name:"/homepage",
+    component:()=>import("../views/HomePage.vue"),
+  },
+>>>>>>> zxl
 ];
 
 const router = new VueRouter({
