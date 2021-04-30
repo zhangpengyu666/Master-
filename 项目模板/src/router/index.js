@@ -3,7 +3,9 @@ import VueRouter from "vue-router";
 
 Vue.use(VueRouter);
 const routes = [
+
   {
+
 
     path: "/yi",
     name: "yi",
@@ -83,6 +85,7 @@ const routes = [
     path: "/shiliu",
     name: "shiliu",
     component: () => import("@/views/shiliu.vue"),
+
   },
   {
     path: "/shiqi",
