@@ -5,6 +5,7 @@ Vue.use(VueRouter);
 
 const routes = [
   {
+
     path: "/yi",
     name: "yi",
     component: () => import("@/views/yi.vue"),
@@ -114,6 +115,7 @@ const routes = [
     name: "ershier",
     component: () => import("@/views/ershier.vue"),
   },
+
 ];
 
 const router = new VueRouter({
