@@ -15,6 +15,7 @@ html {
 }
 img{
   vertical-align: middle;
+<<<<<<< HEAD
 }
 
 #nav {
@@ -28,5 +29,7 @@ img{
       color: #42b983;
     }
   }
+=======
+>>>>>>> humiaoran
 }
 </style>
