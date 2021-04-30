@@ -1,5 +1,5 @@
 <template>
-  <div class="box">
+  <div class="box" id="four-box">
     <!-- <img src="@/assets/image/images/0颜色.jpg" alt=""> -->
     <!-- 头部导航 -->
     <ul class="nav">
@@ -75,13 +75,10 @@ export default {
 };
 </script>
 
-<style lang="scss">
-body {
-  background-color: #eaeaea;
-}
-.box {
-  border-top: 1px solid #eaeaea;
+<style lang="scss" scoped>
+#four-box {
   font-size: 0.28rem;
+  background-color: #eaeaea;
   // 头部导航
   .nav {
     display: flex;
@@ -90,9 +87,11 @@ body {
     height: 0.92rem;
     align-items: center;
     background-color: #fff;
+    border-top: 0.01rem solid #eaeaea;
+    border-bottom: 0.01rem solid #eaeaea;
     li {
       flex: 1;
-      border-right: 0.01rem solid #f4f4f4;
+      border-right: 0.01rem solid #eaeaea;
       text-align: center;
       i {
         color: #999;

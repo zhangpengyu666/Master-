@@ -2,7 +2,7 @@
     "list":[
         {
             "id":"1",
-            "img":"/img/4-1.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/19/72c0d640244c7e195f30661c44f5f5e7.jpg",
             "title":"恒逸金榈湾85平中式古典三居室",
             "style":"中式",
             "number":"三室",
@@ -12,7 +12,7 @@
         },
         {
             "id":"2",
-            "img":"/img/4-2.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/19/5cb8ae4f30abaaa665350b0dce2e22cf.jpg",
             "title":"90平现代精致、大气的现代简约温馨小窝三居室",
             "style":"现代简约",
             "number":"三室",
@@ -22,7 +22,7 @@
         },
         {
             "id":"3",
-            "img":"/img/4-3.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/19/433d3f94339a2f5cf79509cbb4cebf9e.jpg",
             "title":"绿都金域东方101平中式三居室",
             "style":"中式",
             "number":"三室",
@@ -32,7 +32,7 @@
         },
         {
             "id":"4",
-            "img":"/img/4-4.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/19/d0a30c3a26e2f1de5480c5961036d0b2.jpg",
             "title":"用现代设计打造诗意生活119平现代三居室",
             "style":"现代",
             "number":"三室",
@@ -42,7 +42,7 @@
         },
         {
             "id":"5",
-            "img":"/img/4-5.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/19/e783fcc28917d00d5c26489253a38756.jpg",
             "title":"府尚公馆145平轻奢三居室",
             "style":"轻奢",
             "number":"三室",
@@ -52,7 +52,7 @@
         },
         {
             "id":"6",
-            "img":"/img/4-6.jpg",
+            "img":"http://img.sirfang.com/effect_img/2020/10/17/d40705c942ca43d0c48d581c1076ab3d.jpg",
             "title":"光明尚海湾95平米现代简约三居室",
             "style":"现代简约",
             "number":"三室",
