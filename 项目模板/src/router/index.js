@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 
 Vue.use(VueRouter);
 
+<<<<<<< HEAD
 const routes = [
   {
 
@@ -117,6 +118,25 @@ const routes = [
   },
 
 
+=======
+const routes = [{
+  path: '/',
+  redirect: '/two1'
+},
+{
+  path: "/",
+  name: "demo",
+  component: () => import("@/views/Demo.vue"),
+}, {
+  path: "/two",
+  name: "two",
+  component: () => import("@/views/two.vue"),
+},{
+  path: "/two1",
+  name: "two1",
+  component: () => import("@/views/two1.vue"),
+}
+>>>>>>> lys
 ];
 
 const router = new VueRouter({
