@@ -91,7 +91,6 @@ const routes = [
     component: () => import("@/views/shiqi.vue"),
   },
   {
-<<<<<<< HEAD
     path: "/shiba",
     name: "shiba",
     component: () => import("@/views/shiba.vue"),
@@ -117,12 +116,7 @@ const routes = [
     component: () => import("@/views/ershier.vue"),
   },
 
-=======
-    path: "/four",
-    name: "Four",
-    component: () => import("@/views/Four.vue"),
-  },
->>>>>>> humiaoran
+
 ];
 
 const router = new VueRouter({
