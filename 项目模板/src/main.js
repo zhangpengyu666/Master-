@@ -43,7 +43,8 @@ Vue.component("myMask", myMask);
 import myAdd from "@/components/Tools/Add/Add.vue";
 Vue.component("myAdd", myAdd);
 
-
+import axios from "axios";
+Vue.prototype.$axios = axios;
 
 new Vue({
   router,

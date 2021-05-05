@@ -1,17 +1,26 @@
 <template>
-    <div class=''></div>
+  <div class=''>
+
+  </div>
 </template>
 
 <script>
-export default {
-    data() {
-        return {};
-    },
-    mounted() {},
-    methods: {},
-};
+export default {
+  data () {
+    return {
+      msg: ''
+    }
+  },
+mounted(){
+
+ },
+  methods: {
+
+  },
+}
 </script>
 
-<style lang='scss' scoped>
+<style lang='scss'>
 
 </style>
+
