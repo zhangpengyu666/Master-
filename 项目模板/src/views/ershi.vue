@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div id="box-twenty">
     <img src="@/assets/image/images/切图/20.png" class="imm" />
     <div class="meng"></div>
@@ -12,11 +13,16 @@
       </div>
       <img src="@/assets/image/images/切图/20-2.png" />
     </main>
+=======
+  <div class=''>
+
+>>>>>>> 394c3609d58e040e1f28688df991c63bf9127a56
   </div>
 </template>
 
 <script>
 export default {
+<<<<<<< HEAD
   data() {
     return {
       msg: "",
@@ -73,4 +79,23 @@ export default {
     }
   }
 }
+=======
+  data () {
+    return {
+      msg: ''
+    }
+  },
+mounted(){
+
+ },
+  methods: {
+
+  },
+}
+</script>
+
+<style lang='scss'>
+
+>>>>>>> 394c3609d58e040e1f28688df991c63bf9127a56
 </style>
+
