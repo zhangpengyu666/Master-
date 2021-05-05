@@ -18,9 +18,9 @@
           <i class="iconfont icon-search hd-ic1"></i>
         </li>
       </ul>
-    </div>
+    </div> 
 
-    <div class="drop-down">
+  <div class="drop-down">
       <div class="down-1">
         <p>级别</p>
         <ul>
@@ -123,8 +123,10 @@ export default {
     box-sizing: border-box;
     padding: 11px 5px;
     > img {
-      width: 82px;
-      height: 82px;
+      // width: 82px;
+      // height: 82px;
+      width: 50px;
+      height: 50px;
       border-radius: 50%;
       object-fit: cover;
       margin-right: 10px;

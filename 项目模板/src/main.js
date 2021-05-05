@@ -5,8 +5,51 @@ import store from "./store";
 import "@/assets/css/common.css";
 import "@/assets/css/reset.css";
 import "@/assets/js/app.js";
+<<<<<<< HEAD
 // 引入icon图标
 import "@/assets/image/images/iconfont/iconfont.css"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+// 引入icon图标
+import "@/assets/image/images/iconfont/iconfont.css"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+import "@/assets/image/images/iconfont/iconfont.css";
+=======
+=======
+
+
+>>>>>>> lys
+// 引入icon图标
+import "@/assets/image/images/iconfont/iconfont.css"
+
+>>>>>>> 394c3609d58e040e1f28688df991c63bf9127a56
+=======
+
+
+// 引入icon图标
+import "@/assets/image/images/iconfont/iconfont.css"
+
+>>>>>>> msz
+
+Vue.config.productionTip = false;
+
+// 引入axios
+import axios from "axios";
+Vue.prototype.$axios = axios;
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+>>>>>>> lys
+=======
+import "@/assets/image/images/iconfont/iconfont.css"
+>>>>>>> 521f98848188a82ecf861d3e26e022ee591236be
 
 
 Vue.config.productionTip = false;
@@ -15,6 +58,17 @@ Vue.config.productionTip = false;
 import axios from "axios";
 Vue.prototype.$axios = axios;
 
+<<<<<<< HEAD
+=======
+>>>>>>> zxl
+=======
+>>>>>>> lys
+=======
+
+
+
+>>>>>>> msz
+>>>>>>> 521f98848188a82ecf861d3e26e022ee591236be
 import myButton from "@/components/Tools/Button.vue";
 Vue.component("myButton", Vue.extend(myButton));
 //我们在注册组件的时候 其实是需要用extend方法先把.vue文件变成一个vue实例，才能被注册成一个组件，我们在写的时候可以省略extend
@@ -49,7 +103,8 @@ Vue.component("myMask", myMask);
 import myAdd from "@/components/Tools/Add/Add.vue";
 Vue.component("myAdd", myAdd);
 
-
+import axios from "axios";
+Vue.prototype.$axios = axios;
 
 new Vue({
   router,
