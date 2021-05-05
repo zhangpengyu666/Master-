@@ -4,7 +4,7 @@
 <div class="box">
 
 <div>
-<img src="@/assets\images\设计图\切图\house_info.jpg" class="img">
+<img src="@/assets/image/images/切图\house_info.jpg" class="img">
 </div>
 <div class="font-buju">
 房先森 / 装修攻略 / 装修预算 / 正文
@@ -34,7 +34,7 @@
 添置很多没必要的增项。那么在做预算的时候又有什么需要注意的地方呢?
 </div>
 <div class="font-img">
-<img src="@/assets\images\设计图\切图\banner1.jpg" class="font-img">
+<img src="@/assets/image/images/切图/banner1.jpg" class="font-img">
 </div>
 <div class="font-expansion">
 点击展开全文
