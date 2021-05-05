@@ -1,4 +1,4 @@
-                                                                                                    <template>
+ <template>
   <div id="app">
     <router-view />
   </div>
@@ -14,9 +14,10 @@
 html {
   font-size: 50px;
 }
-<<<<<<< HEAD
+
 img{
   vertical-align: middle;
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #app {
@@ -34,15 +35,9 @@ img{
 
 #nav {
   padding: 30px;
-
-  a {
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
 =======
->>>>>>> humiaoran
+>>>>>>> lys
+
+
 }
 </style>
