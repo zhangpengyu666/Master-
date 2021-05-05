@@ -6,6 +6,7 @@ import "@/assets/css/common.css";
 import "@/assets/css/reset.css";
 import "@/assets/js/app.js";
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 // 引入icon图标
 import "@/assets/image/images/iconfont/iconfont.css"
@@ -24,6 +25,13 @@ import "@/assets/image/images/iconfont/iconfont.css";
 import "@/assets/image/images/iconfont/iconfont.css"
 
 >>>>>>> 394c3609d58e040e1f28688df991c63bf9127a56
+=======
+
+
+// 引入icon图标
+import "@/assets/image/images/iconfont/iconfont.css"
+
+>>>>>>> msz
 
 Vue.config.productionTip = false;
 
@@ -31,6 +39,7 @@ Vue.config.productionTip = false;
 import axios from "axios";
 Vue.prototype.$axios = axios;
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 >>>>>>> lys
@@ -46,6 +55,11 @@ Vue.prototype.$axios = axios;
 >>>>>>> zxl
 =======
 >>>>>>> lys
+=======
+
+
+
+>>>>>>> msz
 import myButton from "@/components/Tools/Button.vue";
 Vue.component("myButton", Vue.extend(myButton));
 //我们在注册组件的时候 其实是需要用extend方法先把.vue文件变成一个vue实例，才能被注册成一个组件，我们在写的时候可以省略extend
