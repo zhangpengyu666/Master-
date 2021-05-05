@@ -5,12 +5,9 @@ import store from "./store";
 import "@/assets/css/common.css";
 import "@/assets/css/reset.css";
 import "@/assets/js/app.js";
-<<<<<<< HEAD
-import "@/assets/image/images/iconfont/iconfont.css";
-=======
+
 // 引入icon图标
 import "@/assets/image/images/iconfont/iconfont.css"
->>>>>>> humiaoran
 
 Vue.config.productionTip = false;
 
