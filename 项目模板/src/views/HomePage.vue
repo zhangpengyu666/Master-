@@ -75,6 +75,19 @@
           <li><i class="iconfont icon-protection-fill"></i>杜绝项目外包</li>
           <li><i class="iconfont icon-price"></i>装修贷款</li>
         </ul>
+
+        <img
+          src="@/assets/image/images/切图/1.png"
+        />
+          <img
+          src="@/assets/image/images/切图/5.png"
+        />
+          <img
+          src="@/assets/image/images/切图/3.png"
+        />
+         <img
+          src="@/assets/image/images/切图/4.png"
+        />
       </div>
     </div>
         
@@ -117,7 +130,7 @@ export default {
   width: 100%;
   height: 100%;
 }
-// -----------------------------------
+
 
 // 装修方案
 .zxfa {
@@ -303,7 +316,7 @@ export default {
   color: #ccc;
 }
 
-// lbt2
+
 .bothhouse .three99 {
   margin-top: 0.34rem;
   width: 100%;

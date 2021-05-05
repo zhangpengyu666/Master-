@@ -3,8 +3,8 @@ import VueRouter from "vue-router";
 
 Vue.use(VueRouter);
 const routes = [
+  
   {
-
     path: "/yi",
     name: "yi",
     component: () => import("@/views/yi.vue"),

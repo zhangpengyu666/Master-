@@ -14,31 +14,5 @@
 html {
   font-size: 50px;
 }
-<<<<<<< HEAD
-img{
-  vertical-align: middle;
-<<<<<<< HEAD
-=======
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  // text-align: center;
-  color: #2c3e50;
->>>>>>> lys
-}
 
-#nav {
-  padding: 30px;
-
-  a {
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-=======
->>>>>>> humiaoran
-}
 </style>
